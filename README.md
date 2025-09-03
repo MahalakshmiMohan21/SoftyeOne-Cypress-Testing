@@ -28,15 +28,15 @@ The following modules have been tested with Cypress:
 |--------------------------|---------------------------|-----------------|
 | Sign Up Page             | 12                        | Validated user registration with required fields, input validations, and error handling for incorrect data. |
 | Login Page               | 10                        | Tested login with valid/invalid credentials, error messages, and session handling. |
-| Settings Page            | 24                        | Verified user settings updates including profile details, password change, and preferences. |
-| Inventory Page           | 40                        | Ensured product addition, updates, deletion, and stock management functions work correctly. |
-| Billing Invoice Page     | 34                        | Checked invoice creation, tax calculations, payment validations, and error scenarios. |
-| All Invoice Page         | 14                        | Tested invoice listing, search, filtering, and download/export functionality. |
+| Settings Page            | 21                        | Verified user settings updates including profile details, password change, and preferences. |
+| Inventory Page           | 38                        | Ensured product addition, updates, deletion, and stock management functions work correctly. |
+| Billing Invoice Page     | 27                        | Checked invoice creation, tax calculations, payment validations, and error scenarios. |
+| All Invoice Page         | 11                        | Tested invoice listing, search, filtering, and download/export functionality. |
 | Customer Page            | 21                        | Validated customer addition, update, deletion, and viewing customer details. |
 | Dashboard Page           | 13                        | Confirmed dashboard widgets, quick links, data visualization, and navigation. |
-| User Management          | 30                        | Tested user roles, permissions, account creation, updates, and access control. |
+| User Management          | 24                        | Tested user roles, permissions, account creation, updates, and access control. |
 
-✅ **Total Test Cases Automated: 198**
+✅ **Total Test Cases Automated: 177**
 
 
 ---
